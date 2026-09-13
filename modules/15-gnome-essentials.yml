@@ -20,6 +20,7 @@ sources:
 
     - gnome-bluetooth-sendto
     - gnome-color-manager
+    - gnome-initial-setup
     - gnome-menus
     - gnome-online-accounts
 
